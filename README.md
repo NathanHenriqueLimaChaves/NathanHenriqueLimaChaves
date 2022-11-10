@@ -1,5 +1,5 @@
 ### Oi👋 Bem vindo(a) ao meu Git. Meu nome é Nathan Henrique Lima Chaves
- - Tenho 23 nos e moro em Campo Grande - MS
+ - Tenho 24 nos e moro em Campo Grande - MS
  - Faço faculdade de Tecnologia da Informação na UFMS
  - Faço curso técnico de Desenvolvimento de Sistemas no Senac Hub Academy
  - Atualmente aprendendo Python, JavaScript, Banco de dados, Scrum e muito mais😁
