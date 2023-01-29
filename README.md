@@ -2,6 +2,7 @@
  - Tenho 24 nos e moro em Campo Grande - MS
  - Faço faculdade de Tecnologia da Informação na UFMS
  - Faço curso técnico de Desenvolvimento de Sistemas no Senac Hub Academy
+ - Trabalho na empresa Nota Control como Analista de Suporte
  - Atualmente aprendendo Python, JavaScript, Banco de dados, Scrum e muito mais😁
  - Contato: nathanhenriquelimachaves@gmail.com
 
